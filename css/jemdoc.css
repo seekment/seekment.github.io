@@ -364,6 +364,10 @@ img {
 	border: none;
 }
 
+a:hover{
+color: red;
+}
+
 table.imgtable, table.imgtable td {
 	border: none;
 	text-align: left;
