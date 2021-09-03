@@ -1,0 +1,79 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+<meta name="generator" content="jemdoc, see http://jemdoc.jaboc.net/" />
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<link rel="stylesheet" href="../css/jemdoc.css" type="text/css" />
+<title>Welcome to Yanan Sun's Homepage</title>
+</head>
+<body>
+<table summary="Table for page layout." id="tlayout">
+<tr valign="top">
+<td id="layout-menu">
+<div class="menu-category">Yuanlin Yang</div>
+<div class="menu-item"><a href="../index.html" class="current">Home</a></div>
+<div class="menu-item"><a href="publication.html">Publications</a></div>
+<div class="menu-item"><a href="grant_award.html">Grants/Awards</a></div>
+<div class="menu-item"><a href="service.html">Services</a></div>
+<div class="menu-item"><a href="open_project.html">Open&nbsp;project</a></div>
+<div class="menu-item"><a href="other.html">Other</a></div>
+
+</td>
+<td id="layout-content">
+<p>
+<tt> </tt>
+</p>
+<h2>基于网络爬虫的淘宝数据可视化系统</h2>
+<ul>
+<li><p>暂时未开放，项目代码更新中..</p>
+</li>
+</ul>
+
+<h2>微博数据可视化系统</h2>
+<ul>
+<li><p>暂时未开放，项目代码更新中..</p>
+</li>
+</ul>
+    
+<h2>电影院在线选票系统</h2>
+<ul>
+<li><p>暂时未开放，项目代码更新中..</p>
+</li>
+</ul>
+    <h2>智能假日机器人</h2>
+    <ul>
+        <li><p>项目描述：解决了不同国家办公同学假期被打扰的问题</p>
+        </li>
+        <li><p>我的贡献：负责钉钉机器人订阅模块，与用户进行交互，组装和发送钉钉消息到对应订阅群中，解析用户参数，制定参数过滤规则等等</p>
+        </li>
+        <li><p>项目结果：负责钉钉机器人订阅模块，与用户进行交互，组装和发送钉钉消息到对应订阅群中，解析用户参数，制定参数过滤规则等等</p>
+        </li>
+    </ul>
+
+
+    <h2>单系统CI用例运行失败原因诊断分析</h2>
+    <ul>
+        <li><p>项目描述：解决了蚂蚁国际同学假期被打扰的问题</p>
+        </li>
+        <li><p>我的贡献：负责钉钉机器人订阅模块，与用户进行交互，组装和发送钉钉消息到对应订阅群中，解析用户参数，制定参数过滤规则等等</p>
+        </li>
+        <li><p>项目结果：负责钉钉机器人订阅模块，与用户进行交互，组装和发送钉钉消息到对应订阅群中，解析用户参数，制定参数过滤规则等等</p>
+        </li>
+    </ul>
+
+    <h2>快速恢复系统</h2>
+    <ul>
+        <li><p>项目描述：解决了蚂蚁国际同学假期被打扰的问题</p>
+        </li>
+        <li><p>我的贡献：负责钉钉机器人订阅模块，与用户进行交互，组装和发送钉钉消息到对应订阅群中，解析用户参数，制定参数过滤规则等等</p>
+        </li>
+        <li><p>项目结果：负责钉钉机器人订阅模块，与用户进行交互，组装和发送钉钉消息到对应订阅群中，解析用户参数，制定参数过滤规则等等</p>
+        </li>
+    </ul>
+</td>
+</tr>
+</table>
+
+</body>
+</html>
